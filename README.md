@@ -9,7 +9,7 @@ In this assignment, you will be implementing maximum entropy inverse reinforceme
   - ![image](https://github.com/sniekum/MaxEntIRL_assignment/assets/1664131/e7c49e02-84b1-4229-b6b4-9b27812aedb6)
 
 - In step 5, it should be:
-  - ![image](https://github.com/sniekum/MaxEntIRL_assignment/assets/1664131/978ffc22-f707-490e-a754-fb340a916908)
+  - <img width="907" height="107" alt="Screenshot 2026-09-28 at 4 37 30 PM" src="https://github.com/user-attachments/assets/e9e1cb9e-4f33-4892-8355-1f259c47cdb1" />
   - In other words, the probability of a state s_i at the next timestep is based on how often you started in all the states s_k that you could have come from, multiplied by the appropriate action and transition probabilities that would have taken you from s_k to s_i
 
 Your task is to write three functions, as specified in the provided file.  The three functions are:
